@@ -49,6 +49,7 @@ async def main():
         reward=reward,
         diary=diary,
         reward_info=reward_info,
+        _int=int
     )
     args.output.write_text(rendered)
 

@@ -42,7 +42,11 @@
             <table>
                 <tr>
                     <td>Explored</td>
-                    <td>{{ exploration.explored }}%</td>
+                    <td>
+                        <img
+                        src="https://progress-bar.dev/{{ _int(exploration.explored) }}/"
+                        width=80>
+                    </td>
                 </tr>
                 <tr>
                     <td>{{ exploration.type }}</td>
