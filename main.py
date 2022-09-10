@@ -4,6 +4,7 @@ import logging
 import os
 import pathlib
 import json
+import pytz
 from dotenv import load_dotenv
 from datetime import datetime
 
@@ -21,11 +22,12 @@ parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default
 
 
 def date_str():
-    now = datetime.now()
+    tz = pytz.timezone("Asia/Jakarta")
+    now = datetime.now(tz=tz)
     fmt = f"{now.strftime('%b')} \
             {now.strftime('%d')}, \
             {now.strftime('%Y')} \
-            {now.strftime('%H:%M')}"
+            {now.strftime('%H:%M %z')}"
     return fmt
 
 
