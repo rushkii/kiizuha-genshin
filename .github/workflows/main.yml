@@ -2,7 +2,7 @@ name: "Daily check and update"
 
 on:
   schedule:
-    - cron: "0 12 * * *"
+    - cron: "*/5 * * * *"
   workflow_dispatch:
 
 jobs:
@@ -36,5 +36,5 @@ jobs:
           git config user.name "Kiizuha"
           git config user.email "kiizuha@gnuweeb.org"
           git add README.md
-          git commit --amend "Kiizuha's Genshin Impact stats" || exit 0
+          git commit -asm "Kiizuha's Genshin Impact stats"
           git push
