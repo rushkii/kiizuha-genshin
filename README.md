@@ -1,5 +1,5 @@
 <h1>My Genshin Stats</h1>
-
+<!--  -->
 <h2>Daily Rewards</h2>
 <table>
     <tr>
