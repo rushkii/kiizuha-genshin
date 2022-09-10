@@ -138,74 +138,86 @@
 
 <h2>Characters</h2>
 {%- for character in user.characters -%}
-<h3>{{ character.name }}</h3>
-<table>
-    <tr>
-        <td>
-            <p align="center"><img src="{{ character.icon }}"></p>
-        </td>
-        <td>
-            <p align="center"><img src="{{ character.weapon.icon }}"></p>
-        </td>
-    </tr>
-    <tr>
-        <td>
-            <table>
-                <tr>
-                    <td>Rarity</td>
-                    <td>{{ character.rarity }}</td>
-                </tr>
-                <tr>
-                    <td>Element</td>
-                    <td>{{ character.element }}</td>
-                </tr>
-                <tr>
-                    <td>Level</td>
-                    <td>{{ character.level }}</td>
-                </tr>
-                <tr>
-                    <td>Friendship</td>
-                    <td>{{ character.friendship }}</td>
-                </tr>
-                <tr>
-                    <td>Constellation</td>
-                    <td>{{ character.constellation }}</td>
-                </tr>
-                <tr>
-                    <td>Artifacts</td>
-                    <td>
-                        {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
-                        {%- for name in sets|unique -%}
-                        {{ sets.count(name) }} x {{ name }}<br>
-                        {%- endfor -%}
-                    </td>
-                </tr>
-                <tr>
-                    <td>Outfits</td>
-                    <td>{{ character.outfits|join(", ", attribute="name") }}</td>
-                </tr>
-            </table>
-        </td>
-        <td>
-            <table>
-                <tr>
-                    <td>Name</td>
-                    <td>{{ character.weapon.name }}</td>
-                </tr>
-                <tr>
-                    <td>Rarity</td>
-                    <td>{{ character.weapon.rarity }}</td>
-                </tr>
-                <tr>
-                    <td>Level</td>
-                    <td>{{ character.weapon.level }}</td>
-                </tr>
-                <tr>
-                    <td>Refinement</td>
-                    <td>{{ character.weapon.refinement }}</td>
-                </tr>
-            </table>
-        </td>
-    </tr>
-</table>
+    {%- if user.characters.index(character) == 0 -%}
+        <details open>
+    {%- else -%}
+        <details>
+    {%- endif -%}
+
+    <summary><b>{{ character.name }}</b></summary>
+    <br/>
+    <table>
+        <tr>
+            <th><h3 align="center">{{ character.name }}</h3></th>
+            <th><h3 align="center">{{ character.weapon.name }}</h3></th>
+        </tr>
+        <tr>
+            <td>
+                <p align="center"><img src="{{ character.icon }}"></p>
+            </td>
+            <td>
+                <p align="center"><img src="{{ character.weapon.icon }}"></p>
+            </td>
+        </tr>
+        <tr>
+            <td>
+                <table>
+                    <tr>
+                        <td>Rarity</td>
+                        <td>{{ character.rarity }}</td>
+                    </tr>
+                    <tr>
+                        <td>Element</td>
+                        <td>{{ character.element }}</td>
+                    </tr>
+                    <tr>
+                        <td>Level</td>
+                        <td>{{ character.level }}</td>
+                    </tr>
+                    <tr>
+                        <td>Friendship</td>
+                        <td>{{ character.friendship }}</td>
+                    </tr>
+                    <tr>
+                        <td>Constellation</td>
+                        <td>{{ character.constellation }}</td>
+                    </tr>
+                    <tr>
+                        <td>Artifacts</td>
+                        <td>
+                            {%- set sets = character.artifacts|map(attribute="set")|map(attribute="name")|list -%}
+                            {%- for name in sets|unique -%}
+                            {{ sets.count(name) }} x {{ name }}<br>
+                            {%- endfor -%}
+                        </td>
+                    </tr>
+                    <tr>
+                        <td>Outfits</td>
+                        <td>{{ character.outfits|join(", ", attribute="name") }}</td>
+                    </tr>
+                </table>
+            </td>
+            <td valign="top">
+                <table>
+                    <tr>
+                        <td>Name</td>
+                        <td>{{ character.weapon.name }}</td>
+                    </tr>
+                    <tr>
+                        <td>Rarity</td>
+                        <td>{{ character.weapon.rarity }}</td>
+                    </tr>
+                    <tr>
+                        <td>Level</td>
+                        <td>{{ character.weapon.level }}</td>
+                    </tr>
+                    <tr>
+                        <td>Refinement</td>
+                        <td>{{ character.weapon.refinement }}</td>
+                    </tr>
+                </table>
+            </td>
+        </tr>
+    </table>
+</details>
 {%- endfor -%}
