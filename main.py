@@ -34,7 +34,7 @@ async def main():
         reward = await client.claimed_rewards(lang=args.lang).next()
         reward_info = await client.get_reward_info()
 
-    template = jinja2.Template(args.template.read_text())
+    template: jinja2.Template = jinja2.Template(args.template.read_text())
     rendered = template.render(
         user=user,
         lang=args.lang,
