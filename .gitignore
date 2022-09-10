@@ -1,5 +1,3 @@
-stats.html
-
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
@@ -16,7 +14,7 @@ __pycache__/
 .vs/
 
 # Environments
-.env
+*.env
 .venv
 env/
 venv/
@@ -25,3 +23,7 @@ venv/
 .mypy_cache/
 .dmypy.json
 dmypy.json
+
+
+# main content
+stats.html
