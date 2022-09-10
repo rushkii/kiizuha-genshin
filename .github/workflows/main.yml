@@ -36,5 +36,5 @@ jobs:
           git config user.name "Kiizuha"
           git config user.email "kiizuha@gnuweeb.org"
           git add README.md
-          git commit -m "Updated stats" || exit 0
+          git commit --amend "Kiizuha's Genshin Impact stats" || exit 0
           git push
