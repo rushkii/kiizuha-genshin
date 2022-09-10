@@ -5,6 +5,7 @@ import os
 import pathlib
 import json
 from dotenv import load_dotenv
+from datetime import datetime
 
 import genshin
 import jinja2
@@ -17,6 +18,15 @@ parser.add_argument("-t", "--template", default="template.html", type=pathlib.Pa
 parser.add_argument("-o", "--output", default="stats.html", type=pathlib.Path)
 parser.add_argument("-c", "--cookies", default=None)
 parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
+
+
+def date_str():
+    now = datetime.now()
+    fmt = f"{now.strftime('%b')} \
+            {now.strftime('%d')}, \
+            {now.strftime('%Y')} \
+            {now.strftime('%H:%M')}"
+    return fmt
 
 
 async def main():
@@ -49,6 +59,7 @@ async def main():
         reward=reward,
         diary=diary,
         reward_info=reward_info,
+        updated_at=date_str(),
         _int=int
     )
     args.output.write_text(rendered)
