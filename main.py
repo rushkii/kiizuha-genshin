@@ -21,9 +21,9 @@ parser.add_argument("-c", "--cookies", default=None)
 parser.add_argument("-l", "--lang", "--language", choices=genshin.LANGS, default="en-us")
 
 
-def date_str():
+def format_date(date: "datetime"):
     tz = pytz.timezone("Asia/Jakarta")
-    now = datetime.now(tz=tz)
+    now = date.now(tz=tz)
     fmt = f"{now.strftime('%b')} \
             {now.strftime('%d')}, \
             {now.strftime('%Y')} \
@@ -61,7 +61,7 @@ async def main():
         reward=reward,
         diary=diary,
         reward_info=reward_info,
-        updated_at=date_str(),
+        updated_at=format_date(reward.time),
         _int=int
     )
     args.output.write_text(rendered)
