@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 05, 2022 10:13 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 05, 2022 11:12 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -540,7 +540,7 @@
           </tr>
           <tr>
             <td>Level</td>
-            <td>80</td>
+            <td>90</td>
           </tr>
           <tr>
             <td>Refinement</td>
