@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 07, 2022 02:11 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 07, 2022 02:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>354</td>
+    <td>355</td>
   </tr>
   <tr>
     <td>Characters</td>
