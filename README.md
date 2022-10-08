@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 08, 2022 09:22 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 08, 2022 10:46 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>355</td>
+    <td>356</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>51</td>
+    <td>52</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/9/" width="80" />
+            <img src="https://progress-bar.dev/10/" width="80" />
           </td>
         </tr>
         <tr>
@@ -288,21 +288,125 @@
     <td>7</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>55</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-3</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>26</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (6)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (6)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (44)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (50205)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (19208)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (32)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        ,
+        height="18"
+      />
+      Sucrose (24)<br />
+    </td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1317 (rate -72)</td>
+    <td>1342 (rate -71)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>346933 (rate -82)</td>
+    <td>962073 (rate -51)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 960 (73%)<br />Daily Activity: 250 (19%)<br />Events: 60 (5%)<br />Adventure:
-      46 (3%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
+      Mail: 960 (72%)<br />Daily Activity: 270 (21%)<br />Events: 60 (4%)<br />Adventure:
+      51 (3%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
