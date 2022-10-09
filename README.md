@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 09, 2022 16:02 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 09, 2022 16:33 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -314,6 +314,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+        ,
+        height="18"
+      />
+      Noelle (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -328,12 +333,7 @@
         ,
         height="18"
       />
-      Diona (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (9)<br />
+      Diona (9)<br />
     </td>
   </tr>
   <tr>
