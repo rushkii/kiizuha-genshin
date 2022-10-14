@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 14, 2022 19:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 14, 2022 20:44 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Sucrose.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Sucrose (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+      Raiden Shogun (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+      Ganyu (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Diona.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+      Diona (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Noelle (9)<br />
+      Xingqiu (9)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1944 (rate -59)</td>
+    <td>2064 (rate -56)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1542645 (rate -22)</td>
+    <td>1582645 (rate -20)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1020 (53%)<br />Spiral Abyss: 400 (21%)<br />Daily Activity: 370
-      (19%)<br />Events: 100 (5%)<br />Adventure: 51 (2%)<br />Other: 3 (0%)<br />Quests:
+      Mail: 1020 (50%)<br />Spiral Abyss: 400 (20%)<br />Daily Activity: 370
+      (18%)<br />Events: 220 (10%)<br />Adventure: 51 (2%)<br />Other: 3 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
