@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 18, 2022 16:00 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 18, 2022 16:39 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -2112,6 +2112,88 @@
   </table>
 </details>
 <details>
+  <summary><b>Fischl</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Fischl</h3></th>
+      <th><h3 align="center">Favonius Warbow</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Electro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>40</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>2</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>6</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>
+              2 x Traveling Doctor<br />2 x Adventurer<br />1 x Berserker<br />
+            </td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td>Ein Immernachtstraum</td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Favonius Warbow</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>30</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Collei</b></summary>
   <br />
   <table>
@@ -2184,88 +2266,6 @@
           <tr>
             <td>Level</td>
             <td>1</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Fischl</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Fischl</h3></th>
-      <th><h3 align="center">Favonius Warbow</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Fischl.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Zephyrus.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Electro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>40</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>6</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>
-              2 x Traveling Doctor<br />2 x Adventurer<br />1 x Berserker<br />
-            </td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td>Ein Immernachtstraum</td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Favonius Warbow</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>30</td>
           </tr>
           <tr>
             <td>Refinement</td>
