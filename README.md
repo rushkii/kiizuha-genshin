@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 18, 2022 19:00 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 18, 2022 20:08 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -296,19 +296,19 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>7</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>6</td>
+    <td>9</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>10-3</td>
+    <td>11-3</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>18</td>
+    <td>26</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3149 (rate -33)</td>
+    <td>3639 (rate -23)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3485783 (rate 74)</td>
+    <td>3911046 (rate 96)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1180 (38%)<br />Mail: 1020 (33%)<br />Daily Activity: 490 (16%)<br />Spiral
-      Abyss: 400 (12%)<br />Adventure: 56 (1%)<br />Other: 3 (0%)<br />Quests: 0
-      (0%)<br />
+      Events: 1180 (33%)<br />Mail: 1040 (29%)<br />Spiral Abyss: 800 (22%)<br />Daily
+      Activity: 550 (15%)<br />Adventure: 66 (1%)<br />Other: 3 (0%)<br />Quests:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
