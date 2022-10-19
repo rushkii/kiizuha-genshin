@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 19, 2022 13:05 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 19, 2022 14:12 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>474</td>
+    <td>477</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>360</td>
+    <td>361</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>220</td>
+    <td>223</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>30</td>
+    <td>33</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1299</td>
+    <td>1306</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1047</td>
+    <td>1049</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>38</td>
+    <td>39</td>
   </tr>
 </table>
 
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/10/" width="80" />
+            <img src="https://progress-bar.dev/11/" width="80" />
           </td>
         </tr>
         <tr>
@@ -314,16 +314,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
-        ,
-        height="18"
-      />
-      Raiden Shogun (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
@@ -333,7 +323,17 @@
         ,
         height="18"
       />
-      Bennett (9)<br />
+      Bennett (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+        ,
+        height="18"
+      />
+      Noelle (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (9)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3699 (rate -22)</td>
+    <td>3758 (rate -20)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>3951809 (rate 98)</td>
+    <td>4000604 (rate 100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 1180 (32%)<br />Mail: 1040 (29%)<br />Spiral Abyss: 800 (22%)<br />Daily
-      Activity: 610 (16%)<br />Adventure: 66 (1%)<br />Other: 3 (0%)<br />Quests:
+      Events: 1180 (32%)<br />Mail: 1040 (28%)<br />Spiral Abyss: 800 (21%)<br />Daily
+      Activity: 610 (16%)<br />Adventure: 125 (3%)<br />Other: 3 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
