@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 29, 2022 22:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 29, 2022 23:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
