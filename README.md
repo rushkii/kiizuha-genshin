@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 29, 2022 13:59 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 29, 2022 14:24 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -314,11 +314,6 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
-        ,
-        height="18"
-      />
-      Kamisato Ayaka (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -333,7 +328,12 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br />
+      Kaedehara Kazuha (9)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (9)<br />
     </td>
   </tr>
   <tr>
