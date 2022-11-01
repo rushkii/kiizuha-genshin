@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 01, 2022 09:44 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 01, 2022 11:23 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -319,11 +319,11 @@
         height="18"
       />
       Noelle (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Ganyu (9)<br /><img
+      Bennett (9)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
