@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 18:52 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 02, 2022 19:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>478</td>
+    <td>479</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>33</td>
+    <td>36</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,15 +52,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1306</td>
+    <td>1310</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1050</td>
+    <td>1053</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>298</td>
+    <td>300</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>52</td>
+    <td>53</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/11/" width="80" />
+            <img src="https://progress-bar.dev/12/" width="80" />
           </td>
         </tr>
         <tr>
@@ -396,7 +396,7 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>600 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
@@ -405,8 +405,8 @@
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0 (0%)<br />Daily
-      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0
+      Mail: 600 (100%)<br />Events: 0 (0%)<br />Adventure: 0 (0%)<br />Quests: 0
+      (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Other: 0
       (0%)<br />
     </td>
   </tr>
