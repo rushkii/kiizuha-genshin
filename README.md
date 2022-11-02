@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 22:29 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 02, 2022 22:50 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>224</td>
+    <td>226</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1312</td>
+    <td>1313</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
