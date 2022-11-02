@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 23:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 03, 2022 00:01 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -292,103 +292,103 @@
 <table>
   <tr>
     <td>Season</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>9</td>
+    <td>6</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>9</td>
+    <td>5</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>11-3</td>
+    <td>10-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>26</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Xingqiu (9)<br /><img
+      Nahida (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+      Kaedehara Kazuha (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Bennett (9)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+      Kamisato Ayaka (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Noelle (9)<br />
+      Raiden Shogun (5)<br />
     </td>
   </tr>
   <tr>
     <td>Most Defeats</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Ganyu (59)<br />
+      Xingqiu (19)<br />
     </td>
   </tr>
   <tr>
     <td>Strongest Single Strike</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Raiden Shogun (72042)<br />
+      Ganyu (58259)<br />
     </td>
   </tr>
   <tr>
     <td>Most Damage Taken</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (58752)<br />
+      Nahida (23684)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Bursts Unleashed</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Kaedehara Kazuha (37)<br />
+      Nahida (12)<br />
     </td>
   </tr>
   <tr>
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (62)<br />
+      Klee (26)<br />
     </td>
   </tr>
 </table>
@@ -396,16 +396,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>801 (rate -82)</td>
+    <td>813 (rate -81)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>70971 (rate -98)</td>
+    <td>127663 (rate -97)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (83%)<br />Adventure: 140 (17%)<br />Other: 1 (0%)<br />Events:
+      Mail: 660 (82%)<br />Adventure: 152 (18%)<br />Other: 1 (0%)<br />Events:
       0 (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss:
       0 (0%)<br />
     </td>
@@ -1791,7 +1791,7 @@
   <table>
     <tr>
       <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Apprentice's Notes</h3></th>
+      <th><h3 align="center">Mappa Mare</h3></th>
     </tr>
     <tr>
       <td>
@@ -1804,7 +1804,7 @@
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Apprentice.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
           />
         </p>
       </td>
@@ -1846,19 +1846,19 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Apprentice's Notes</td>
+            <td>Mappa Mare</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>1</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
-            <td>1</td>
+            <td>60</td>
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>5</td>
           </tr>
         </table>
       </td>
