@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 02, 2022 21:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 02, 2022 21:42 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>479</td>
+    <td>480</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>223</td>
+    <td>224</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>36</td>
+    <td>39</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1310</td>
+    <td>1312</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1053</td>
+    <td>1054</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/12/" width="80" />
+            <img src="https://progress-bar.dev/13/" width="80" />
           </td>
         </tr>
         <tr>
