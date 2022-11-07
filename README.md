@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2022 04:56 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 08, 2022 05:26 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>480</td>
+    <td>482</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>39</td>
+    <td>40</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1054</td>
+    <td>1055</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
