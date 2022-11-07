@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2022 03:46 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 08, 2022 03:58 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -396,16 +396,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1063 (rate -76)</td>
+    <td>1083 (rate -75)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>332663 (rate -92)</td>
+    <td>345663 (rate -91)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 660 (63%)<br />Spiral Abyss: 250 (23%)<br />Adventure: 152 (14%)<br />Other:
+      Mail: 680 (63%)<br />Spiral Abyss: 250 (23%)<br />Adventure: 152 (14%)<br />Other:
       1 (0%)<br />Events: 0 (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0
       (0%)<br />
     </td>
