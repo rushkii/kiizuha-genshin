@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 07, 2022 15:47 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 07, 2022 16:00 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -324,16 +324,16 @@
         height="18"
       />
       Raiden Shogun (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Nahida (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (5)<br />
+      Nahida (5)<br />
     </td>
   </tr>
   <tr>
@@ -384,11 +384,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
         ,
         height="18"
       />
-      Bennett (26)<br />
+      Klee (26)<br />
     </td>
   </tr>
 </table>
