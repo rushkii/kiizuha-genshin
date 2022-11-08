@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 08, 2022 09:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 08, 2022 10:44 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>485</td>
+    <td>487</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -314,26 +314,26 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (5)<br /><img
+      Kaedehara Kazuha (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (5)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
-      Ganyu (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (5)<br />
+      Ganyu (5)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1198 (rate -73)</td>
+    <td>1228 (rate -72)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>538761 (rate -87)</td>
+    <td>564211 (rate -86)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 680 (57%)<br />Spiral Abyss: 250 (21%)<br />Adventure: 187 (16%)<br />Quests:
-      60 (5%)<br />Events: 20 (1%)<br />Other: 1 (0%)<br />Daily Activity: 0
+      Mail: 680 (56%)<br />Spiral Abyss: 250 (21%)<br />Adventure: 187 (15%)<br />Quests:
+      90 (7%)<br />Events: 20 (1%)<br />Other: 1 (0%)<br />Daily Activity: 0
       (0%)<br />
     </td>
   </tr>
