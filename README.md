@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 15, 2022 17:15 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 15, 2022 17:37 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -329,11 +329,11 @@
         height="18"
       />
       Ganyu (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
       />
-      Bennett (5)<br />
+      Nahida (5)<br />
     </td>
   </tr>
   <tr>
