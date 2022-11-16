@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 16, 2022 09:08 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 16, 2022 10:30 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>371</td>
+    <td>372</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -319,21 +319,21 @@
         height="18"
       />
       Bennett (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (5)<br /><img
+      Raiden Shogun (5)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
       />
       Ganyu (5)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Nahida (5)<br />
+      Kaedehara Kazuha (5)<br />
     </td>
   </tr>
   <tr>
@@ -384,11 +384,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Klee.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Klee (26)<br />
+      Bennett (26)<br />
     </td>
   </tr>
 </table>
