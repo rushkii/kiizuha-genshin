@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 21, 2022 18:30 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 21, 2022 18:42 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -384,11 +384,11 @@
     <td>Elemental Skills Cast</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
         ,
         height="18"
       />
-      Nahida (54)<br />
+      Bennett (54)<br />
     </td>
   </tr>
 </table>
