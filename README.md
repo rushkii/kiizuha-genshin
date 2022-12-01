@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 01, 2022 15:42 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 01, 2022 15:55 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -296,29 +296,29 @@
   </tr>
   <tr>
     <td>Total Battles</td>
-    <td>3</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Total Wins</td>
-    <td>3</td>
+    <td>11</td>
   </tr>
   <tr>
     <td>Max Floor</td>
-    <td>9-3</td>
+    <td>12-2</td>
   </tr>
   <tr>
     <td>Total Stars</td>
-    <td>9</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (11)<br /><img
+      Kaedehara Kazuha (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
@@ -329,11 +329,11 @@
         height="18"
       />
       Ganyu (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Xingqiu (11)<br />
+      Kamisato Ayaka (11)<br />
     </td>
   </tr>
   <tr>
