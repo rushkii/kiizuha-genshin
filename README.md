@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 01, 2022 17:43 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 01, 2022 17:56 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -400,7 +400,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>581000 (rate -45)</td>
+    <td>581033 (rate -45)</td>
   </tr>
   <tr>
     <td>Categories</td>
