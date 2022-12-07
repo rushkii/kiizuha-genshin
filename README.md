@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 13:52 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 14:11 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -400,7 +400,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>581033 (rate -45)</td>
+    <td>604033 (rate -43)</td>
   </tr>
   <tr>
     <td>Categories</td>
@@ -2801,7 +2801,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>3</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -3041,7 +3041,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
@@ -3441,7 +3441,7 @@
           </tr>
           <tr>
             <td>Constellation</td>
-            <td>0</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Artifacts</td>
