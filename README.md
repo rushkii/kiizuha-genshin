@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 19:52 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -318,7 +318,7 @@
         ,
         height="18"
       />
-      Shougun (11)<br /><img
+      Raiden Shogun (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -344,7 +344,7 @@
         ,
         height="18"
       />
-      Shougun (48)<br />
+      Raiden Shogun (48)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Shougun (74503)<br />
+      Raiden Shogun (74503)<br />
     </td>
   </tr>
   <tr>
