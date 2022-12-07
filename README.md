@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 12:41 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 12:54 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,11 +24,11 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>374</td>
+    <td>375</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>41</td>
+    <td>43</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1315</td>
+    <td>1320</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1055</td>
+    <td>1056</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>53</td>
+    <td>55</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/13/" width="80" />
+            <img src="https://progress-bar.dev/14/" width="80" />
           </td>
         </tr>
         <tr>
@@ -323,7 +323,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br /><img
+      Kazuha (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
@@ -333,7 +333,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (11)<br />
+      Shougun (11)<br />
     </td>
   </tr>
   <tr>
@@ -344,7 +344,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (48)<br />
+      Shougun (48)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (74503)<br />
+      Shougun (74503)<br />
     </td>
   </tr>
   <tr>
@@ -1738,7 +1738,7 @@
           </tr>
           <tr>
             <td>Element</td>
-            <td>Anemo</td>
+            <td>Dendro</td>
           </tr>
           <tr>
             <td>Level</td>
