@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 21:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 22:11 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -318,12 +318,12 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br /><img
+      Kazuha (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br /><img
+      Shougun (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -344,7 +344,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (48)<br />
+      Shougun (48)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (74503)<br />
+      Shougun (74503)<br />
     </td>
   </tr>
   <tr>
