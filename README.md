@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 07, 2022 14:51 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 07, 2022 15:13 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -333,7 +333,7 @@
         ,
         height="18"
       />
-      Kazuha (11)<br />
+      Kaedehara Kazuha (11)<br />
     </td>
   </tr>
   <tr>
@@ -344,7 +344,7 @@
         ,
         height="18"
       />
-      Shougun (48)<br />
+      Raiden Shogun (48)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Shougun (74503)<br />
+      Raiden Shogun (74503)<br />
     </td>
   </tr>
   <tr>
@@ -396,17 +396,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>790 (rate -56)</td>
+    <td>2296 (rate 27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>604033 (rate -43)</td>
+    <td>656857 (rate -38)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Spiral Abyss: 450 (57%)<br />Mail: 300 (38%)<br />Events: 40 (5%)<br />Adventure:
-      0 (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0 (0%)<br />Other: 0
+      Mail: 1720 (75%)<br />Spiral Abyss: 450 (20%)<br />Events: 80 (4%)<br />Adventure:
+      45 (1%)<br />Other: 1 (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0
       (0%)<br />
     </td>
   </tr>
