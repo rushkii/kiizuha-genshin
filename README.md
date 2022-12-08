@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 08, 2022 16:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 16:32 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>43</td>
+    <td>44</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1323</td>
+    <td>1325</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1056</td>
+    <td>1058</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/14/" width="80" />
+            <img src="https://progress-bar.dev/15/" width="80" />
           </td>
         </tr>
         <tr>
