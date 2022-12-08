@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 08, 2022 14:44 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 14:56 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>375</td>
+    <td>376</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1320</td>
+    <td>1323</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
