@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 08, 2022 15:55 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 08, 2022 16:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -323,7 +323,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (11)<br /><img
+      Shougun (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -344,7 +344,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (48)<br />
+      Shougun (48)<br />
     </td>
   </tr>
   <tr>
@@ -355,7 +355,7 @@
         ,
         height="18"
       />
-      Raiden Shogun (74503)<br />
+      Shougun (74503)<br />
     </td>
   </tr>
   <tr>
@@ -396,18 +396,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2361 (rate 30)</td>
+    <td>2375 (rate 31)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>683157 (rate -35)</td>
+    <td>690474 (rate -35)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1720 (73%)<br />Spiral Abyss: 450 (20%)<br />Events: 80 (3%)<br />Daily
-      Activity: 60 (2%)<br />Adventure: 50 (2%)<br />Other: 1 (0%)<br />Quests:
-      0 (0%)<br />
+      Mail: 1720 (73%)<br />Spiral Abyss: 450 (19%)<br />Events: 80 (4%)<br />Adventure:
+      63 (2%)<br />Daily Activity: 60 (2%)<br />Other: 2 (0%)<br />Quests: 0
+      (0%)<br />
     </td>
   </tr>
 </table>
@@ -1303,6 +1303,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Nahida</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Nahida</h3></th>
+      <th><h3 align="center">Mappa Mare</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>80</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>3 x Deepwood Memories<br />2 x Gilded Dreams<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Mappa Mare</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Diona</b></summary>
   <br />
   <table>
@@ -1619,86 +1699,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Nahida</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Mappa Mare</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>70</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>3 x Deepwood Memories<br />2 x Gilded Dreams<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Mappa Mare</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
