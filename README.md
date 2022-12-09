@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 09, 2022 20:15 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 09, 2022 20:34 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>376</td>
+    <td>377</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1325</td>
+    <td>1326</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -329,11 +329,11 @@
         height="18"
       />
       Raiden Shogun (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
         ,
         height="18"
       />
-      Ganyu (11)<br />
+      Xingqiu (11)<br />
     </td>
   </tr>
   <tr>
