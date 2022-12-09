@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 09, 2022 19:49 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 09, 2022 20:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -1343,7 +1343,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
