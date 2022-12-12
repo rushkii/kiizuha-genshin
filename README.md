@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 13, 2022 01:53 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 13, 2022 02:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -324,16 +324,16 @@
         height="18"
       />
       Kaedehara Kazuha (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
-        ,
-        height="18"
-      />
-      Ganyu (11)<br />
+      Kamisato Ayaka (11)<br />
     </td>
   </tr>
   <tr>
