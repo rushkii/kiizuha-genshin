@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 17, 2022 01:55 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 17, 2022 02:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>495</td>
+    <td>496</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -314,11 +314,16 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
         ,
         height="18"
       />
-      Raiden Shogun (11)<br /><img
+      Kamisato Ayaka (11)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (11)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
         ,
         height="18"
@@ -328,12 +333,7 @@
         ,
         height="18"
       />
-      Kaedehara Kazuha (11)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
-        ,
-        height="18"
-      />
-      Xingqiu (11)<br />
+      Kaedehara Kazuha (11)<br />
     </td>
   </tr>
   <tr>
@@ -396,7 +396,7 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>2446 (rate 35)</td>
+    <td>2466 (rate 36)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
@@ -405,8 +405,8 @@
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1720 (71%)<br />Spiral Abyss: 450 (19%)<br />Daily Activity: 120
-      (4%)<br />Events: 80 (3%)<br />Adventure: 74 (3%)<br />Other: 2 (0%)<br />Quests:
+      Mail: 1720 (70%)<br />Spiral Abyss: 450 (19%)<br />Daily Activity: 120
+      (5%)<br />Adventure: 94 (3%)<br />Events: 80 (3%)<br />Other: 2 (0%)<br />Quests:
       0 (0%)<br />
     </td>
   </tr>
