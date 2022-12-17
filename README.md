@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 18, 2022 02:40 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 18, 2022 02:52 +0700</u> (🤖automated)
 </h3>
 <br />
 
