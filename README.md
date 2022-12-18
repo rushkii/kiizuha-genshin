@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 18, 2022 09:28 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 18, 2022 09:50 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>496</td>
+    <td>497</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -52,15 +52,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1327</td>
+    <td>1331</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1058</td>
+    <td>1060</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>300</td>
+    <td>303</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -244,7 +244,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/81/" width="80" />
+            <img src="https://progress-bar.dev/82/" width="80" />
           </td>
         </tr>
         <tr>
