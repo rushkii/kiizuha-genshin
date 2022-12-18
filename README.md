@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 18, 2022 10:38 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 18, 2022 10:51 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -20,7 +20,7 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>497</td>
+    <td>498</td>
   </tr>
   <tr>
     <td>Days Active</td>
@@ -52,7 +52,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1331</td>
+    <td>1332</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -396,16 +396,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>3316 (rate 83)</td>
+    <td>3736 (rate 106)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>810452 (rate -23)</td>
+    <td>1160452 (rate 8)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 2540 (77%)<br />Spiral Abyss: 450 (14%)<br />Adventure: 124 (4%)<br />Daily
+      Mail: 2560 (69%)<br />Spiral Abyss: 850 (23%)<br />Adventure: 124 (3%)<br />Daily
       Activity: 120 (3%)<br />Events: 80 (2%)<br />Other: 2 (0%)<br />Quests: 0
       (0%)<br />
     </td>
