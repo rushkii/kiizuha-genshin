@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 24, 2022 18:00 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 24, 2022 18:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -324,16 +324,16 @@
         height="18"
       />
       Kamisato Ayaka (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
+        ,
+        height="18"
+      />
+      Noelle (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Raiden Shogun (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-        ,
-        height="18"
-      />
-      Nahida (8)<br />
+      Raiden Shogun (8)<br />
     </td>
   </tr>
   <tr>
