@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 03, 2023 14:43 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 03, 2023 14:55 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -314,16 +314,11 @@
     <td>Most Played Characters</td>
     <td>
       <img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
         ,
         height="18"
       />
-      Kamisato Ayaka (8)<br /><img
-        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Noel.png"
-        ,
-        height="18"
-      />
-      Noelle (8)<br /><img
+      Raiden Shogun (8)<br /><img
         src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
         ,
         height="18"
@@ -333,7 +328,12 @@
         ,
         height="18"
       />
-      Xingqiu (8)<br />
+      Xingqiu (8)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+        ,
+        height="18"
+      />
+      Kamisato Ayaka (8)<br />
     </td>
   </tr>
   <tr>
