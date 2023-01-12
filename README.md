@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 12, 2023 16:54 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 12, 2023 17:21 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -285,7 +285,7 @@
   </tr>
   <tr>
     <td>Visitors</td>
-    <td>7</td>
+    <td>8</td>
   </tr>
 </table>
 <h2>Spiral Abyss</h2>
