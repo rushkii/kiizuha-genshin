@@ -2,7 +2,7 @@ name: "Daily check and update"
 
 on:
   schedule:
-    - cron: "*/5 * * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -32,9 +32,9 @@ jobs:
           npx prettier README.md --write --parser html
       - name: Commit and push if changed
         run: |
+          git config user.name "Paimon"
+          git config user.email "actions@users.noreply.github.com"
           git diff
-          git config user.name "Kiizuha"
-          git config user.email "kiizuha@gnuweeb.org"
           git add README.md
-          git commit -asm "Kiizuha's Genshin Impact stats"
+          git commit -m "Kiizuha's Genshin Impact stats"
           git push
