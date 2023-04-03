@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Apr 02, 2023 19:15 +0700</u> (🤖automated)
+  🕒 Updated at <u>Apr 03, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -310,25 +310,25 @@
 
 <h2>Characters</h2>
 <details open>
-  <summary><b>Kamisato Ayaka</b></summary>
+  <summary><b>Ganyu</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Kamisato Ayaka</h3></th>
-      <th><h3 align="center">Amenoma Kageuchi</h3></th>
+      <th><h3 align="center">Ganyu</h3></th>
+      <th><h3 align="center">Amos' Bow</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bakufu.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
           />
         </p>
       </td>
@@ -358,7 +358,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Wanderer's Troupe<br />4 x Blizzard Strayer<br /></td>
+            <td>1 x Gladiator's Finale<br />4 x Wanderer's Troupe<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -370,11 +370,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Amenoma Kageuchi</td>
+            <td>Amos' Bow</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>4</td>
+            <td>5</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -382,7 +382,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>2</td>
+            <td>1</td>
           </tr>
         </table>
       </td>
@@ -472,25 +472,25 @@
   </table>
 </details>
 <details>
-  <summary><b>Ganyu</b></summary>
+  <summary><b>Kamisato Ayaka</b></summary>
   <br />
   <table>
     <tr>
-      <th><h3 align="center">Ganyu</h3></th>
-      <th><h3 align="center">Amos' Bow</h3></th>
+      <th><h3 align="center">Kamisato Ayaka</h3></th>
+      <th><h3 align="center">Amenoma Kageuchi</h3></th>
     </tr>
     <tr>
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ayaka.png"
           />
         </p>
       </td>
       <td>
         <p align="center">
           <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Bow_Amos.png"
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Sword_Bakufu.png"
           />
         </p>
       </td>
@@ -520,7 +520,7 @@
           </tr>
           <tr>
             <td>Artifacts</td>
-            <td>1 x Gladiator's Finale<br />4 x Wanderer's Troupe<br /></td>
+            <td>1 x Wanderer's Troupe<br />4 x Blizzard Strayer<br /></td>
           </tr>
           <tr>
             <td>Outfits</td>
@@ -532,11 +532,11 @@
         <table>
           <tr>
             <td>Name</td>
-            <td>Amos' Bow</td>
+            <td>Amenoma Kageuchi</td>
           </tr>
           <tr>
             <td>Rarity</td>
-            <td>5</td>
+            <td>4</td>
           </tr>
           <tr>
             <td>Level</td>
@@ -544,7 +544,7 @@
           </tr>
           <tr>
             <td>Refinement</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
         </table>
       </td>
