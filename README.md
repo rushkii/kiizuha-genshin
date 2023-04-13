@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Apr 12, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Apr 13, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,19 +20,19 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>504</td>
+    <td>508</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>392</td>
+    <td>394</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>40</td>
+    <td>41</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>235</td>
+    <td>240</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>54</td>
+    <td>61</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1342</td>
+    <td>1345</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1067</td>
+    <td>1071</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Domains Unlocked</td>
-    <td>37</td>
+    <td>38</td>
   </tr>
 </table>
 
@@ -160,7 +160,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/16/" width="80" />
+            <img src="https://progress-bar.dev/18/" width="80" />
           </td>
         </tr>
         <tr>
@@ -292,17 +292,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1006 (rate -21)</td>
+    <td>1273 (rate 0)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>115300 (rate -89)</td>
+    <td>244688 (rate -77)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1000 (100%)<br />Adventure: 5 (0%)<br />Other: 1 (0%)<br />Events: 0
-      (0%)<br />Quests: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0
+      Mail: 1000 (79%)<br />Daily Activity: 120 (10%)<br />Adventure: 79 (6%)<br />Events:
+      40 (3%)<br />Quests: 30 (2%)<br />Other: 4 (0%)<br />Spiral Abyss: 0
       (0%)<br />
     </td>
   </tr>
