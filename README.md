@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Apr 13, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Apr 14, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>394</td>
+    <td>395</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>61</td>
+    <td>62</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1345</td>
+    <td>1347</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1071</td>
+    <td>1073</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -288,22 +288,126 @@
     <td>8</td>
   </tr>
 </table>
+<h2>Spiral Abyss</h2>
+<table>
+  <tr>
+    <td>Season</td>
+    <td>67</td>
+  </tr>
+  <tr>
+    <td>Total Battles</td>
+    <td>9</td>
+  </tr>
+  <tr>
+    <td>Total Wins</td>
+    <td>7</td>
+  </tr>
+  <tr>
+    <td>Max Floor</td>
+    <td>11-1</td>
+  </tr>
+  <tr>
+    <td>Total Stars</td>
+    <td>21</td>
+  </tr>
+  <tr>
+    <td>Most Played Characters</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+        ,
+        height="18"
+      />
+      Nahida (7)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Xingqiu.png"
+        ,
+        height="18"
+      />
+      Xingqiu (7)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (7)<br /><img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (7)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Defeats</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (45)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Strongest Single Strike</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shougun.png"
+        ,
+        height="18"
+      />
+      Raiden Shogun (59844)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Most Damage Taken</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Ganyu.png"
+        ,
+        height="18"
+      />
+      Ganyu (38580)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Bursts Unleashed</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Kazuha.png"
+        ,
+        height="18"
+      />
+      Kaedehara Kazuha (31)<br />
+    </td>
+  </tr>
+  <tr>
+    <td>Elemental Skills Cast</td>
+    <td>
+      <img
+        src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Bennett.png"
+        ,
+        height="18"
+      />
+      Bennett (36)<br />
+    </td>
+  </tr>
+</table>
 <h2>Diary</h2>
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1273 (rate 0)</td>
+    <td>1812 (rate 41)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>244688 (rate -77)</td>
+    <td>745585 (rate -32)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1000 (79%)<br />Daily Activity: 120 (10%)<br />Adventure: 79 (6%)<br />Events:
-      40 (3%)<br />Quests: 30 (2%)<br />Other: 4 (0%)<br />Spiral Abyss: 0
-      (0%)<br />
+      Mail: 1000 (56%)<br />Spiral Abyss: 350 (20%)<br />Daily Activity: 180
+      (10%)<br />Events: 160 (9%)<br />Adventure: 88 (4%)<br />Quests: 30
+      (1%)<br />Other: 4 (0%)<br />
     </td>
   </tr>
 </table>
@@ -957,6 +1061,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Nahida</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Nahida</h3></th>
+      <th><h3 align="center">Mappa Mare</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Dendro</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>90</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>3 x Deepwood Memories<br />2 x Gilded Dreams<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Mappa Mare</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>60</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>5</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Sucrose</b></summary>
   <br />
   <table>
@@ -1192,86 +1376,6 @@
           <tr>
             <td>Refinement</td>
             <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Nahida</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Nahida</h3></th>
-      <th><h3 align="center">Mappa Mare</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Nahida.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Catalyst_Exotic.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Dendro</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>80</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>3 x Deepwood Memories<br />2 x Gilded Dreams<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Mappa Mare</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>5</td>
           </tr>
         </table>
       </td>
@@ -1682,6 +1786,86 @@
   </table>
 </details>
 <details>
+  <summary><b>Shenhe</b></summary>
+  <br />
+  <table>
+    <tr>
+      <th><h3 align="center">Shenhe</h3></th>
+      <th><h3 align="center">Dragon's Bane</h3></th>
+    </tr>
+    <tr>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
+          />
+        </p>
+      </td>
+      <td>
+        <p align="center">
+          <img
+            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
+          />
+        </p>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <table>
+          <tr>
+            <td>Rarity</td>
+            <td>5</td>
+          </tr>
+          <tr>
+            <td>Element</td>
+            <td>Cryo</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>70</td>
+          </tr>
+          <tr>
+            <td>Friendship</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Constellation</td>
+            <td>0</td>
+          </tr>
+          <tr>
+            <td>Artifacts</td>
+            <td>2 x Gladiator's Finale<br />3 x Blizzard Strayer<br /></td>
+          </tr>
+          <tr>
+            <td>Outfits</td>
+            <td></td>
+          </tr>
+        </table>
+      </td>
+      <td valign="top">
+        <table>
+          <tr>
+            <td>Name</td>
+            <td>Dragon's Bane</td>
+          </tr>
+          <tr>
+            <td>Rarity</td>
+            <td>4</td>
+          </tr>
+          <tr>
+            <td>Level</td>
+            <td>1</td>
+          </tr>
+          <tr>
+            <td>Refinement</td>
+            <td>1</td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+  </table>
+</details>
+<details>
   <summary><b>Traveler</b></summary>
   <br />
   <table>
@@ -1831,86 +2015,6 @@
           <tr>
             <td>Level</td>
             <td>40</td>
-          </tr>
-          <tr>
-            <td>Refinement</td>
-            <td>1</td>
-          </tr>
-        </table>
-      </td>
-    </tr>
-  </table>
-</details>
-<details>
-  <summary><b>Shenhe</b></summary>
-  <br />
-  <table>
-    <tr>
-      <th><h3 align="center">Shenhe</h3></th>
-      <th><h3 align="center">Dragon's Bane</h3></th>
-    </tr>
-    <tr>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/character_icon/UI_AvatarIcon_Shenhe.png"
-          />
-        </p>
-      </td>
-      <td>
-        <p align="center">
-          <img
-            src="https://upload-os-bbs.mihoyo.com/game_record/genshin/equip/UI_EquipIcon_Pole_Stardust.png"
-          />
-        </p>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <table>
-          <tr>
-            <td>Rarity</td>
-            <td>5</td>
-          </tr>
-          <tr>
-            <td>Element</td>
-            <td>Cryo</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>60</td>
-          </tr>
-          <tr>
-            <td>Friendship</td>
-            <td>1</td>
-          </tr>
-          <tr>
-            <td>Constellation</td>
-            <td>0</td>
-          </tr>
-          <tr>
-            <td>Artifacts</td>
-            <td>2 x Gladiator's Finale<br />3 x Blizzard Strayer<br /></td>
-          </tr>
-          <tr>
-            <td>Outfits</td>
-            <td></td>
-          </tr>
-        </table>
-      </td>
-      <td valign="top">
-        <table>
-          <tr>
-            <td>Name</td>
-            <td>Dragon's Bane</td>
-          </tr>
-          <tr>
-            <td>Rarity</td>
-            <td>4</td>
-          </tr>
-          <tr>
-            <td>Level</td>
-            <td>1</td>
           </tr>
           <tr>
             <td>Refinement</td>
