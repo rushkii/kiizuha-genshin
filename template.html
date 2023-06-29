@@ -2,18 +2,6 @@
 <h3 align="center">🕒 Updated at <u>{{ updated_at }}</u> (🤖automated)</h3>
 <br>
 
-<h2>Daily Rewards</h2>
-<table>
-    <tr>
-        <td>Total Rewards Claimed</td>
-        <td>{{ reward_info.claimed_rewards }}</td>
-    </tr>
-    <tr>
-        <td>Last Claimed Reward</td>
-        <td>{{ reward.amount }} x {{ reward.name }}</td>
-    </tr>
-</table>
-
 <h2>Stats</h2>
 <table>
     {%- for field, value in user.stats.as_dict(lang=lang).items() -%}
@@ -118,25 +106,6 @@
 </table>
 {%- endif -%}
 
-<h2>Diary</h2>
-<table>
-    <tr>
-        <td>Primogems earned</td>
-        <td>{{ diary.data.current_primogems }} (rate {{ diary.data.primogems_rate }})</td>
-    </tr>
-    <tr>
-        <td>Mora earned</td>
-        <td>{{ diary.data.current_mora }} (rate {{ diary.data.mora_rate }})</td>
-    </tr>
-    <tr>
-        <td>Categories</td>
-        <td>
-            {%- for category in diary.data.categories -%}
-            {{ category.name }}: {{ category.amount }} ({{ category.percentage }}%)<br>
-            {%- endfor -%}
-        </td>
-    </tr>
-</table>
 
 <h2>Characters</h2>
 {%- for character in user.characters -%}
