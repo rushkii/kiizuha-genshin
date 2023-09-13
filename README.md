@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 12, 2023 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 13, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>9</td>
+    <td>10</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>399</td>
+    <td>400</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -60,7 +60,7 @@
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1075</td>
+    <td>1076</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -319,17 +319,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>485 (rate -45)</td>
+    <td>870 (rate -1)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>422670 (rate 77)</td>
+    <td>649338 (rate 173)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 310 (64%)<br />Daily Activity: 120 (25%)<br />Adventure: 30
-      (6%)<br />Mail: 20 (4%)<br />Other: 5 (1%)<br />Quests: 0 (0%)<br />Spiral
+      Events: 660 (76%)<br />Daily Activity: 120 (14%)<br />Adventure: 35
+      (5%)<br />Quests: 20 (2%)<br />Mail: 20 (2%)<br />Other: 15 (1%)<br />Spiral
       Abyss: 0 (0%)<br />
     </td>
   </tr>
@@ -1346,7 +1346,7 @@
           </tr>
           <tr>
             <td>Friendship</td>
-            <td>1</td>
+            <td>2</td>
           </tr>
           <tr>
             <td>Constellation</td>
