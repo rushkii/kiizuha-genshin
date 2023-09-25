@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 24, 2023 19:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 25, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>21</td>
+    <td>22</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -323,7 +323,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>797695 (rate 235)</td>
+    <td>798695 (rate 235)</td>
   </tr>
   <tr>
     <td>Categories</td>
