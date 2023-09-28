@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Sep 27, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Sep 28, 2023 19:16 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>513</td>
+    <td>514</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>404</td>
+    <td>405</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>247</td>
+    <td>248</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>69</td>
+    <td>70</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1358</td>
+    <td>1359</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
@@ -64,7 +64,7 @@
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>307</td>
+    <td>308</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -173,7 +173,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/19/" width="80" />
+            <img src="https://progress-bar.dev/20/" width="80" />
           </td>
         </tr>
         <tr>
@@ -319,18 +319,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1504 (rate 69)</td>
+    <td>2881 (rate 225)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>1046897 (rate 340)</td>
+    <td>1194347 (rate 402)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 660 (44%)<br />Mail: 360 (24%)<br />Adventure: 195 (13%)<br />Daily
-      Activity: 180 (12%)<br />Quests: 90 (6%)<br />Spiral Abyss: 0 (0%)<br />Other:
-      19 (1%)<br />
+      Mail: 1600 (56%)<br />Events: 700 (25%)<br />Daily Activity: 220 (7%)<br />Adventure:
+      222 (7%)<br />Quests: 120 (4%)<br />Spiral Abyss: 0 (0%)<br />Other: 19
+      (1%)<br />
     </td>
   </tr>
 </table>
