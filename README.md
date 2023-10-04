@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 03, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 04, 2023 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>3</td>
+    <td>4</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>20 x Primogem</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>514</td>
+    <td>515</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>405</td>
+    <td>406</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>248</td>
+    <td>249</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -52,15 +52,15 @@
   </tr>
   <tr>
     <td>hydroculi</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1359</td>
+    <td>1360</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1084</td>
+    <td>1086</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
