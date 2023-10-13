@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 12, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 13, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>12</td>
+    <td>13</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fried Radish Balls</td>
+    <td>2 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>515</td>
+    <td>517</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>409</td>
+    <td>410</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>249</td>
+    <td>252</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>70</td>
+    <td>73</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1360</td>
+    <td>1364</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1086</td>
+    <td>1087</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -173,7 +173,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/20/" width="80" />
+            <img src="https://progress-bar.dev/21/" width="80" />
           </td>
         </tr>
         <tr>
@@ -319,17 +319,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1549 (rate -46)</td>
+    <td>1552 (rate -46)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>326688 (rate -72)</td>
+    <td>327558 (rate -72)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
       Mail: 1300 (84%)<br />Daily Activity: 120 (8%)<br />Events: 60 (4%)<br />Adventure:
-      60 (3%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 9
+      62 (3%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 10
       (1%)<br />
     </td>
   </tr>
