@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Oct 13, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Oct 14, 2023 19:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>13</td>
+    <td>14</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>410</td>
+    <td>411</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1364</td>
+    <td>1365</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
