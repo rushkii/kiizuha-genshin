@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 11, 2023 19:15 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 12, 2023 19:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>11</td>
+    <td>12</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>3 x Fried Radish Balls</td>
   </tr>
 </table>
 
@@ -24,15 +24,15 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>412</td>
+    <td>413</td>
   </tr>
   <tr>
     <td>Characters</td>
-    <td>42</td>
+    <td>45</td>
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>252</td>
+    <td>253</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -56,7 +56,7 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1365</td>
+    <td>1367</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
