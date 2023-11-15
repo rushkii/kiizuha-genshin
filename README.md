@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 14, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 15, 2023 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>14</td>
+    <td>15</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>8000 x Mora</td>
+    <td>5 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -319,16 +319,16 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>479 (rate -69)</td>
+    <td>499 (rate -67)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>68590 (rate -79)</td>
+    <td>76590 (rate -76)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 360 (76%)<br />Events: 100 (21%)<br />Daily Activity: 10 (2%)<br />Adventure:
+      Mail: 360 (73%)<br />Events: 120 (24%)<br />Daily Activity: 10 (2%)<br />Adventure:
       9 (1%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
