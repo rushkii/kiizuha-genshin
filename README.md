@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Nov 24, 2023 19:17 +0700</u> (🤖automated)
+  🕒 Updated at <u>Nov 25, 2023 19:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>24</td>
+    <td>25</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5000 x Mora</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>517</td>
+    <td>518</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>417</td>
+    <td>419</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>dendroculi</td>
-    <td>73</td>
+    <td>75</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -319,17 +319,17 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>925 (rate -40)</td>
+    <td>1125 (rate -27)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>192315 (rate -41)</td>
+    <td>197315 (rate -39)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 480 (52%)<br />Events: 320 (35%)<br />Daily Activity: 70 (7%)<br />Quests:
-      40 (4%)<br />Adventure: 14 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1
+      Events: 520 (47%)<br />Mail: 480 (42%)<br />Daily Activity: 70 (6%)<br />Quests:
+      40 (3%)<br />Adventure: 14 (1%)<br />Spiral Abyss: 0 (0%)<br />Other: 1
       (1%)<br />
     </td>
   </tr>
