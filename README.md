@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Dec 26, 2023 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Dec 27, 2023 19:16 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
@@ -43,16 +43,12 @@
     <td>131</td>
   </tr>
   <tr>
-    <td>dendroculi</td>
-    <td>75</td>
+    <td></td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Electroculi</td>
     <td>181</td>
-  </tr>
-  <tr>
-    <td>hydroculi</td>
-    <td>3</td>
   </tr>
   <tr>
     <td>Common Chests Opened</td>
