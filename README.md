@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 16, 2024 19:18 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 17, 2024 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>16</td>
+    <td>17</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>421</td>
+    <td>422</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td>Items</td>
-    <td>369</td>
+    <td>370</td>
   </tr>
   <tr>
     <td>Visitors</td>
