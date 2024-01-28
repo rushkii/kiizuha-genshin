@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 27, 2024 19:14 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 28, 2024 19:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>27</td>
+    <td>28</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Adventurer's Experience</td>
+    <td>3 x Hero's Wit</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>423</td>
+    <td>424</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>253</td>
+    <td>254</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -315,18 +315,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1420 (rate 142000)</td>
+    <td>1445 (rate 144500)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>77013 (rate 7701300)</td>
+    <td>94313 (rate 9431300)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 1220 (86%)<br />Events: 200 (14%)<br />Daily Activity: 0 (0%)<br />Spiral
-      Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Other: 0
-      (0%)<br />
+      Mail: 1240 (86%)<br />Events: 200 (13%)<br />Adventure: 5 (1%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other:
+      0 (0%)<br />
     </td>
   </tr>
 </table>
