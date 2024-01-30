@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jan 29, 2024 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jan 30, 2024 19:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,7 +8,7 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>29</td>
+    <td>30</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
@@ -319,7 +319,7 @@
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>94313 (rate 9431300)</td>
+    <td>99313 (rate 9931300)</td>
   </tr>
   <tr>
     <td>Categories</td>
