@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 01, 2024 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Feb 02, 2024 19:15 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>1</td>
+    <td>2</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>20 x Primogem</td>
+    <td>10000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>518</td>
+    <td>520</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>425</td>
+    <td>427</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>254</td>
+    <td>258</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td></td>
-    <td>3</td>
+    <td>8</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -52,11 +52,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1367</td>
+    <td>1370</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1091</td>
+    <td>1092</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -68,7 +68,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>55</td>
+    <td>56</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -79,6 +79,7 @@
 <h2>Exploration</h2>
 <table>
   <tr>
+    <th>Chenyu Vale: Upper Vale</th>
     <th>Sumeru</th>
     <th>The Chasm: Underground Mines</th>
     <th>The Chasm</th>
@@ -87,9 +88,18 @@
     <th>Dragonspine</th>
     <th>Liyue</th>
     <th>Mondstadt</th>
+    <th>Chenyu Vale</th>
     <th>Fontaine</th>
   </tr>
   <tr>
+    <td>
+      <p align="center">
+        <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
     <td>
       <p align="center">
         <img
@@ -157,6 +167,14 @@
     <td>
       <p align="center">
         <img
+          src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_ChenYuVale.png"
+          width="180"
+        />
+      </p>
+    </td>
+    <td>
+      <p align="center">
+        <img
           src="https://act-webstatic.hoyoverse.com/game_record/genshin/city_icon/UI_ChapterIcon_Fengdan.png"
           width="180"
         />
@@ -164,6 +182,20 @@
     </td>
   </tr>
   <tr>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/1/" width="80" />
+          </td>
+        </tr>
+        <tr>
+          <td>TypeUnknow</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
     <td>
       <table>
         <tr>
@@ -211,7 +243,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/94/" width="80" />
+            <img src="https://progress-bar.dev/95/" width="80" />
           </td>
         </tr>
         <tr>
@@ -285,6 +317,20 @@
           </td>
         </tr>
         <tr>
+          <td>Offering</td>
+          <td>0</td>
+        </tr>
+      </table>
+    </td>
+    <td>
+      <table>
+        <tr>
+          <td>Explored</td>
+          <td>
+            <img src="https://progress-bar.dev/0/" width="80" />
+          </td>
+        </tr>
+        <tr>
           <td>Reputation</td>
           <td>1</td>
         </tr>
@@ -315,17 +361,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate -100)</td>
+    <td>783 (rate -45)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate -100)</td>
+    <td>122913 (rate 23)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Quests:
-      0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0 (0%)<br />Other: 0 (0%)<br />
+      Mail: 620 (80%)<br />Daily Activity: 70 (9%)<br />Events: 40 (5%)<br />Adventure:
+      46 (5%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 7
+      (1%)<br />
     </td>
   </tr>
 </table>
