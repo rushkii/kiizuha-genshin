@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Feb 23, 2024 19:16 +0700</u> (🤖automated)
+  🕒 Updated at <u>Feb 24, 2024 19:14 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -361,18 +361,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>1191 (rate -17)</td>
+    <td>1251 (rate -13)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>368388 (rate 270)</td>
+    <td>378688 (rate 281)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Mail: 800 (68%)<br />Daily Activity: 130 (10%)<br />Adventure: 51 (4%)<br />Events:
-      40 (3%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 170
-      (15%)<br />
+      Mail: 820 (66%)<br />Daily Activity: 130 (10%)<br />Events: 80 (6%)<br />Adventure:
+      51 (4%)<br />Spiral Abyss: 0 (0%)<br />Quests: 0 (0%)<br />Other: 170
+      (14%)<br />
     </td>
   </tr>
 </table>
