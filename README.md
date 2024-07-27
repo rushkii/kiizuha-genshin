@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 26, 2024 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 27, 2024 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>23</td>
+    <td>24</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>5 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>438</td>
+    <td>439</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>258</td>
+    <td>260</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Dendroculi</td>
-    <td>75</td>
+    <td>77</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,11 +56,11 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1370</td>
+    <td>1374</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1092</td>
+    <td>1093</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
@@ -365,18 +365,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>0 (rate 0)</td>
+    <td>2183 (rate 218300)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>0 (rate 0)</td>
+    <td>65951 (rate 6595100)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Events: 0 (0%)<br />Daily Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium
-      Theater: 0 (0%)<br />Quests: 0 (0%)<br />Adventure: 0 (0%)<br />Mail: 0
-      (0%)<br />Other: 0 (0%)<br />
+      Mail: 2060 (95%)<br />Events: 100 (4%)<br />Adventure: 23 (1%)<br />Daily
+      Activity: 0 (0%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0
+      (0%)<br />Quests: 0 (0%)<br />Other: 0 (0%)<br />
     </td>
   </tr>
 </table>
