@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Jul 29, 2024 19:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Jul 30, 2024 19:19 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>26</td>
+    <td>27</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Almond Tofu</td>
+    <td>3 x Adventurer's Experience</td>
   </tr>
 </table>
 
