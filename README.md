@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Aug 02, 2024 19:19 +0700</u> (🤖automated)
+  🕒 Updated at <u>Aug 03, 2024 19:17 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>2</td>
+    <td>3</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>3 x Fine Enhancement Ore</td>
+    <td>5000 x Mora</td>
   </tr>
 </table>
 
@@ -20,11 +20,11 @@
 <table>
   <tr>
     <td>Achievements</td>
-    <td>522</td>
+    <td>523</td>
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>439</td>
+    <td>440</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -32,7 +32,7 @@
   </tr>
   <tr>
     <td>Waypoints Unlocked</td>
-    <td>260</td>
+    <td>265</td>
   </tr>
   <tr>
     <td>Anemoculi</td>
@@ -44,7 +44,7 @@
   </tr>
   <tr>
     <td>Dendroculi</td>
-    <td>77</td>
+    <td>80</td>
   </tr>
   <tr>
     <td>Electroculi</td>
@@ -56,15 +56,15 @@
   </tr>
   <tr>
     <td>Common Chests Opened</td>
-    <td>1374</td>
+    <td>1379</td>
   </tr>
   <tr>
     <td>Exquisite Chests Opened</td>
-    <td>1093</td>
+    <td>1094</td>
   </tr>
   <tr>
     <td>Precious Chests Opened</td>
-    <td>308</td>
+    <td>309</td>
   </tr>
   <tr>
     <td>Luxurious Chests Opened</td>
@@ -72,7 +72,7 @@
   </tr>
   <tr>
     <td>Remarkable Chests Opened</td>
-    <td>56</td>
+    <td>57</td>
   </tr>
   <tr>
     <td>Domains Unlocked</td>
@@ -205,7 +205,7 @@
         <tr>
           <td>Explored</td>
           <td>
-            <img src="https://progress-bar.dev/21/" width="80" />
+            <img src="https://progress-bar.dev/22/" width="80" />
           </td>
         </tr>
         <tr>
