@@ -1,6 +1,6 @@
 <h1 align="center">Kiizuha's Genshin Stats</h1>
 <h3 align="center">
-  🕒 Updated at <u>Aug 06, 2024 19:20 +0700</u> (🤖automated)
+  🕒 Updated at <u>Aug 10, 2024 19:18 +0700</u> (🤖automated)
 </h3>
 <br />
 
@@ -8,11 +8,11 @@
 <table>
   <tr>
     <td>Total Rewards Claimed</td>
-    <td>6</td>
+    <td>7</td>
   </tr>
   <tr>
     <td>Last Claimed Reward</td>
-    <td>2 x Adventurer's Experience</td>
+    <td>8000 x Mora</td>
   </tr>
 </table>
 
@@ -24,7 +24,7 @@
   </tr>
   <tr>
     <td>Days Active</td>
-    <td>440</td>
+    <td>441</td>
   </tr>
   <tr>
     <td>Characters</td>
@@ -365,18 +365,18 @@
 <table>
   <tr>
     <td>Primogems earned</td>
-    <td>176 (rate -91)</td>
+    <td>296 (rate -86)</td>
   </tr>
   <tr>
     <td>Mora earned</td>
-    <td>80836 (rate 22)</td>
+    <td>85836 (rate 30)</td>
   </tr>
   <tr>
     <td>Categories</td>
     <td>
-      Adventure: 60 (35%)<br />Events: 40 (23%)<br />Daily Activity: 40 (22%)<br />Quests:
-      30 (17%)<br />Spiral Abyss: 0 (0%)<br />Imaginarium Theater: 0 (0%)<br />Mail:
-      0 (0%)<br />Other: 6 (3%)<br />
+      Events: 140 (48%)<br />Adventure: 60 (21%)<br />Daily Activity: 40
+      (13%)<br />Quests: 30 (10%)<br />Mail: 20 (6%)<br />Spiral Abyss: 0
+      (0%)<br />Imaginarium Theater: 0 (0%)<br />Other: 6 (2%)<br />
     </td>
   </tr>
 </table>
@@ -399,7 +399,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/3ae1418dab206324fcc59bab6b234ddf.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/16865df425ca04fcd7b8bdf5628dcd85.png"
           />
         </p>
       </td>
@@ -477,7 +477,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/140068d9ac50fc913b5dc1c9264014d2.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/4577a109cd1c74929abb5f7591830407.png"
           />
         </p>
       </td>
@@ -557,7 +557,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/ad5b46577ce62e901102877003ac90f6.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/eef36557a51c5ab4db495f1688ab6db8.png"
           />
         </p>
       </td>
@@ -635,7 +635,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/61685b8be574ba7b7a40db3c1af32be4.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/cae4ac1c4b092f7181883a05b0b829b1.png"
           />
         </p>
       </td>
@@ -713,7 +713,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/14e95aa1ff49a28c03f70173311ebc38.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/88bf867062b33a6f92e05d759fa589ee.png"
           />
         </p>
       </td>
@@ -793,7 +793,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/240e83fea6a53297e92a7f2db4d1a7d9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/28deb38da8e49263b4f844222a3ea008.png"
           />
         </p>
       </td>
@@ -871,7 +871,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/5160923b20495e600101cdeca1903e7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/e5740824aadbb01476d6ffe50bc2fb77.png"
           />
         </p>
       </td>
@@ -949,7 +949,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/f24b0fa55693295604f41486a1ab9b4d.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/a8671d414c196544430b4cfa474b5562.png"
           />
         </p>
       </td>
@@ -1030,7 +1030,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/e65918b78acda03b84bc8aa738eb5c42.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/cf7f3eb2de2e565a935bd5b97108c214.png"
           />
         </p>
       </td>
@@ -1108,7 +1108,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/e65918b78acda03b84bc8aa738eb5c42.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/cf7f3eb2de2e565a935bd5b97108c214.png"
           />
         </p>
       </td>
@@ -1186,7 +1186,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/a1fca0bc2ba8257176230bff7910e057.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/5be1628b150147fd6ebf86dcd386c74c.png"
           />
         </p>
       </td>
@@ -1264,7 +1264,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/55a8962e7bc47527ad1cc3abb8ec2f28.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/ed362341f9be3f220feedc1ae6668199.png"
           />
         </p>
       </td>
@@ -1344,7 +1344,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/240e83fea6a53297e92a7f2db4d1a7d9.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/28deb38da8e49263b4f844222a3ea008.png"
           />
         </p>
       </td>
@@ -1422,7 +1422,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/2e645bae06c933066550f7121e92397f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/f0a8f0f1ee884890544cc32efa994bc3.png"
           />
         </p>
       </td>
@@ -1503,7 +1503,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/2d180972d68b564878efb1af84237725.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1f70f7f525b4cec57b9f3792b70d55e6.png"
           />
         </p>
       </td>
@@ -1581,7 +1581,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/5160923b20495e600101cdeca1903e7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/e5740824aadbb01476d6ffe50bc2fb77.png"
           />
         </p>
       </td>
@@ -1659,7 +1659,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/5160923b20495e600101cdeca1903e7b.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/e5740824aadbb01476d6ffe50bc2fb77.png"
           />
         </p>
       </td>
@@ -1737,7 +1737,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/aa3360d9474e09c49f479d764d02f280.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/ff2048a65ed13fb8c5edf3caa40113dc.png"
           />
         </p>
       </td>
@@ -1815,7 +1815,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/67cd6b941f3452456fa7a947103e3071.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/2e9d851c0a963ab122f854a739a4ae21.png"
           />
         </p>
       </td>
@@ -1893,7 +1893,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b195e2cfaf19628e2bea7d651812646c.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/988fa49bf19e046a396348a8eb1addbc.png"
           />
         </p>
       </td>
@@ -1971,7 +1971,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/1f4c7959ec4e5b879c9cf4c619ba2395.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/7fd1847d98febe415b8c8c7f05998e4d.png"
           />
         </p>
       </td>
@@ -2052,7 +2052,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/14b5a6f014ffaadccd9d62dbdecd4581.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/7de67eb41d6fe35d8b60054e110a6653.png"
           />
         </p>
       </td>
@@ -2133,7 +2133,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/fbeda7d1147441667373dfe2772cbcbb.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/8446ef5bc29b1b6142dd620a94d612f7.png"
           />
         </p>
       </td>
@@ -2211,7 +2211,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/2e645bae06c933066550f7121e92397f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/f0a8f0f1ee884890544cc32efa994bc3.png"
           />
         </p>
       </td>
@@ -2289,7 +2289,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/2e645bae06c933066550f7121e92397f.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/f0a8f0f1ee884890544cc32efa994bc3.png"
           />
         </p>
       </td>
@@ -2369,7 +2369,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/bc8daacb3f1543d4bf4eff5af1b70c10.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/8107a53a453b37b1ed3e41dc2d1cfb5a.png"
           />
         </p>
       </td>
@@ -2450,7 +2450,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b1866a3637b142ee870ab0fcc1197d74.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1519accd60ada19317550d17115b4f08.png"
           />
         </p>
       </td>
@@ -2528,7 +2528,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/d3aaa0d4a25b1ab16fe9358c047022e0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/d9234126a5e39972fb12d9f5c60b895d.png"
           />
         </p>
       </td>
@@ -2606,7 +2606,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/bc8daacb3f1543d4bf4eff5af1b70c10.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/8107a53a453b37b1ed3e41dc2d1cfb5a.png"
           />
         </p>
       </td>
@@ -2684,7 +2684,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/65333e5eaecc885391f00efa8d283553.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/0b30a90a665cef9f2ef0e337109b70b7.png"
           />
         </p>
       </td>
@@ -2762,7 +2762,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b1866a3637b142ee870ab0fcc1197d74.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1519accd60ada19317550d17115b4f08.png"
           />
         </p>
       </td>
@@ -2840,7 +2840,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/d3aaa0d4a25b1ab16fe9358c047022e0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/d9234126a5e39972fb12d9f5c60b895d.png"
           />
         </p>
       </td>
@@ -2918,7 +2918,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/65333e5eaecc885391f00efa8d283553.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/0b30a90a665cef9f2ef0e337109b70b7.png"
           />
         </p>
       </td>
@@ -2996,7 +2996,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/bc8daacb3f1543d4bf4eff5af1b70c10.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/8107a53a453b37b1ed3e41dc2d1cfb5a.png"
           />
         </p>
       </td>
@@ -3074,7 +3074,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/d3aaa0d4a25b1ab16fe9358c047022e0.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/d9234126a5e39972fb12d9f5c60b895d.png"
           />
         </p>
       </td>
@@ -3152,7 +3152,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/9f345100f621ca8eacd609dc8427e5ba.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/16d15e93845cdae0e1d8b04772665996.png"
           />
         </p>
       </td>
@@ -3230,7 +3230,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/9f345100f621ca8eacd609dc8427e5ba.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/16d15e93845cdae0e1d8b04772665996.png"
           />
         </p>
       </td>
@@ -3308,7 +3308,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/65333e5eaecc885391f00efa8d283553.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/0b30a90a665cef9f2ef0e337109b70b7.png"
           />
         </p>
       </td>
@@ -3386,7 +3386,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b1866a3637b142ee870ab0fcc1197d74.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1519accd60ada19317550d17115b4f08.png"
           />
         </p>
       </td>
@@ -3464,7 +3464,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/bc8daacb3f1543d4bf4eff5af1b70c10.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/8107a53a453b37b1ed3e41dc2d1cfb5a.png"
           />
         </p>
       </td>
@@ -3542,7 +3542,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/9f345100f621ca8eacd609dc8427e5ba.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/16d15e93845cdae0e1d8b04772665996.png"
           />
         </p>
       </td>
@@ -3620,7 +3620,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b1866a3637b142ee870ab0fcc1197d74.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1519accd60ada19317550d17115b4f08.png"
           />
         </p>
       </td>
@@ -3698,7 +3698,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/b1866a3637b142ee870ab0fcc1197d74.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/1519accd60ada19317550d17115b4f08.png"
           />
         </p>
       </td>
@@ -3776,7 +3776,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/65333e5eaecc885391f00efa8d283553.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/0b30a90a665cef9f2ef0e337109b70b7.png"
           />
         </p>
       </td>
@@ -3854,7 +3854,7 @@
       <td>
         <p align="center">
           <img
-            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u9cfkg/9f345100f621ca8eacd609dc8427e5ba.png"
+            src="https://act-webstatic.hoyoverse.com/hk4e/e20200928calculate/item_icon_u705lg/16d15e93845cdae0e1d8b04772665996.png"
           />
         </p>
       </td>
